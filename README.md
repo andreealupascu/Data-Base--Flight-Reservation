@@ -1,0 +1,2 @@
+# Data-Base--Flight-Reservation
+In working, a Data Base with a desktop interface about a Flight Reservations Company. Now I work at the scripting part the one with tables and interrogations. The final idea it is that the user can bought a ticket and he can choses from all the reservation that are available for a flight company and on the final ticket he can have the number of the flight, the flight company, the locations, the place, the lugged and also, the type of the airplane. 
